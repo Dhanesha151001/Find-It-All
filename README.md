@@ -1,5 +1,5 @@
-# Networking App UI
+# Find-It-All
 
-A UI of a networking app that has similar interface like Netaclan app that allows to do networking. 
+A UI of a networking app that has a similar interface to the Netaclan app that allows networking. 
 
 
